@@ -3,6 +3,8 @@
 I really love "creating," that is, translating my ideas into visible form.
 And when what you do proves useful and valuable to the people around you, I feel a sense of satisfaction and meaning in life.
 
+[README - RU](README_ru.md)
+
 ## my pet projects:
 
 ### [widget «ICS Display Board»](https://github.com/di-m-dy/ics_display_board.git)
