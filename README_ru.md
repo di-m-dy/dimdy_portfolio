@@ -21,21 +21,43 @@
 Проект представляет собой бэкенд-часть `djangorestframework` + `celery` (фоновые задачи) ждя SPA веб-приложения, которое позволяет пользователям создавать и редактировать свои привычки. Привычки могут быть как ежедневными, так и еженедельными.
 
 ![Python](https://img.shields.io/badge/Python-blue)
-![PyQt5](https://img.shields.io/badge/djangoframework-blue)
-![Screeninfo](https://img.shields.io/badge/celery-yellow)
+![PyQt5](https://img.shields.io/badge/DjangoDRF-blue)
+![Screeninfo](https://img.shields.io/badge/Celery-yellow)
 
 
 ### [telegram-бот «ZazhiBot»](https://github.com/di-m-dy/ZazhiBot_Demo.git)
 Разработал Telegram-бот «ЗажиБот» на базе `aiogram` в рамках социального проекта «Заживое» («Ельцин-Центр», г. Екатеринбург), нацеленного на де-стигматизацию людей с ментальными особенностями через творческое взаимодействие. Проект использовал реальные данные общения участников для создания уникального пользовательского опыта, демонстрирующего особенности коммуникации с нейро-отличными людьми.
 
+![Python](https://img.shields.io/badge/Python-blue)
+![PyQt5](https://img.shields.io/badge/Aiogram-blue)
+
+
 ### [веб-приложение «Newsletters Sevice»](https://github.com/di-m-dy/newsletters-sevice.git)
+
+![Python](https://img.shields.io/badge/Python-blue)
+![PyQt5](https://img.shields.io/badge/Django-blue)
+![Screeninfo](https://img.shields.io/badge/Celery-yellow)
+![Screeninfo](https://img.shields.io/badge/Bootstrap-green)
+
 Сервис для рассылки email сообщений. `django` + `celery` + `bootsrap` + `docker`
 
 ### [telegram-бот «English Self-Check Bot»](https://github.com/di-m-dy/EnglishSelfCheck_Bot_demo.git)
 Разработал Telegram бот на базе `aiogram` для самопроверки выученных фраз английского языка. Бот позволяет пользователям добавлять и проверять фразы и выражения на английском языке, поддерживает текстовый и аудио ввод, два режима проверки (регулярный и спонтанный) и интуитивно понятный интерфейс с инлайн клавиатурой. Проект также включает управление пользователями, лимит запросов и хранение данных с использованием SQLite или PostgreSQL.
 
+![Python](https://img.shields.io/badge/Python-blue)
+![PyQt5](https://img.shields.io/badge/Aiogram-blue)
+
 ### [desktop app «Simple Video Converter»](https://github.com/di-m-dy/Video_Converter.git)
 Разработал десктопное приложение для конвертации видеофайлов с использованием `ffmpeg` и графическим интерфейсом на `customtkinter`. Программа позволяет быстро и легко конвертировать видео в популярные форматы, выбрать степень сжатия и выполнить разворот видео, минимизируя взаимодействие пользователя с командной строкой.
 
+![Python](https://img.shields.io/badge/Python-blue)
+![PyQt5](https://img.shields.io/badge/Customtkinter-blue)
+![PyQt5](https://img.shields.io/badge/Ffmpeg-pink)
+
 ### [веб-сервис для публикаций контента «Stuff UP»](https://gitlab.com/di-m-dy/staff_up.git)
 Разработал веб приложение для публикации контента пользователями. Платформа поддерживает бесплатные и платные записи, с интеграцией оплаты через Stripe. Регистрация пользователей осуществляется по номеру телефона. Фронтенд построен на Django templates и Bootstrap.
+
+![Python](https://img.shields.io/badge/Python-blue)
+![PyQt5](https://img.shields.io/badge/Django-blue)
+![Screeninfo](https://img.shields.io/badge/Celery-yellow)
+![Screeninfo](https://img.shields.io/badge/Bootstrap-green)
