@@ -23,3 +23,6 @@ Developed a Telegram bot on `aiogram` for self-checking learned English phrases.
 ### [desktop App «Simple Video Converter»](https://github.com/di-m-dy/Video_Converter.git)
 
 Developed a desktop application for video file conversion using `ffmpeg` and a graphical interface on `customtkinter`. The program allows users to quickly and easily convert videos to popular formats, choose the compression level, and rotate videos, minimizing user interaction with the command line.
+
+### [web service for content publishing «Stuff UP»](https://gitlab.com/di-m-dy/staff_up.git)
+Developed a web application that allows users to publish content. The platform supports both free and paid posts with integrated Stripe payment processing. User registration is implemented via phone number authentication. The frontend is built using Django templates and Bootstrap.
