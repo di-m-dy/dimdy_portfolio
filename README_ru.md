@@ -9,6 +9,12 @@
 ## мои пет проекты:
 
 ### [виджет «ICS Display Board»](https://github.com/di-m-dy/ics_display_board.git)
+
+![Python](https://img.shields.io/badge/Python-blue)
+![PyQt5](https://img.shields.io/badge/PyQt5-blue)
+![Screeninfo](https://img.shields.io/badge/Screeninfo-blue)
+![Icalendar](https://img.shields.io/badge/Icalendar-blue)
+
 Разработал легковесный GUI виджет на `PyQt` для отображения данных онлайн календаря в реальном времени 24/7. Проект предназначен для использования в театрах, заменяя бумажные расписания на цифровые дисплеи, что способствует экономии времени и ресурсов. Приложение работает с публичными календарями в формате .ics, фильтрует данные и отображает их в удобном формате. Легко разворачивается на Raspberry Pi, поддерживает гибкие настройки через интерфейс пользователя.
 
 ### [веб-сервис «Atomic Habits»](https://github.com/di-m-dy/atomic_habits.git)
